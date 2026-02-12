@@ -2,14 +2,14 @@
 A beginner-friendly Python script demonstrating a complete data cleaning workflow using pandas.
 
 Features
->Load CSV data
->Handle missing values (drop or fill)
->Remove duplicate rows
->Sort data by selected column
+>Load CSV data,
+>Handle missing values (drop or fill),
+>Remove duplicate rows,
+>Sort data by selected column,
 >Save cleaned output
 
 Technologies Used
->Python
+>Python,
 >Pandas
 
 How to Run
