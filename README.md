@@ -1,2 +1,17 @@
 # python-data-cleaning-basics
-What it does: reads a CSV, cleans missing values, sorts data and saves output.
+A beginner-friendly Python script demonstrating a complete data cleaning workflow using pandas.
+
+Features
+>Load CSV data
+>Handle missing values (drop or fill)
+>Remove duplicate rows
+>Sort data by selected column
+>Save cleaned output
+
+Technologies Used
+>Python
+>Pandas
+
+How to Run
+python data_cleaning.py
+
