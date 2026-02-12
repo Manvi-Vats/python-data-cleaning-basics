@@ -13,5 +13,5 @@ Technologies Used
 >Pandas
 
 How to Run
-python data_cleaning.py
+>python data_cleaning.py
 
